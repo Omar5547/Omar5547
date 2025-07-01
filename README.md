@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Nageb
 
-<!--
-**Omar5547/Omar5547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate Back-End .NET Developer skilled in building scalable web applications using ASP.NET Core, Entity Framework, and Clean Architecture.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 🧠 Languages: C#, JavaScript
+- 🌐 Frameworks: ASP.NET Core MVC, Entity Framework
+- 🎨 Frontend: HTML5, CSS3, Bootstrap, jQuery
+- 🗄️ Database: SQL Server
+- 💡 Architecture: Clean Architecture, Design Patterns
+- 🔧 Tools:  GitHub, Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Experience
+- Developed multiple projects as a trainee at ADVAC Systems Ltd.
+- Collaborated using GitHub and worked with real-world backend systems.
+
+## 📫 Reach Me
+- 📧 omarnageb22@gmail.com
+- 📍 Cairo, Egypt
+- [LinkedIn](https://www.linkedin.com/in/omar-nageb-55aba0211/)

@@ -10,9 +10,6 @@
 - 💡 Architecture: Clean Architecture, Design Patterns
 - 🔧 Tools:  GitHub, Visual Studio
 
-## 📈 Experience
-- Developed multiple projects as a trainee at ADVAC Systems Ltd.
-- Collaborated using GitHub and worked with real-world backend systems.
 
 ## 📫 Reach Me
 - 📧 omarnageb22@gmail.com
